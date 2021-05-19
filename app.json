@@ -1,7 +1,7 @@
 {
     "name": "WhatsAsenaPublic",
     "description": "WhatsAsenaPublic - Made By TOXIC DEVIL.",
-    "logo": "https://i.ibb.co/9H56Ct5/20210305-083215.jpg",
+    "logo": "https://i.ibb.co/wCWRLHS/Copy.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/TOXIC-DEVIL/WhatsAsenaPublic",
     "website":   "https://t.me/phaticusthiccy",
@@ -94,9 +94,9 @@
             "value": "default"
         },
         "ALIVE_LOGO": {
-            "description": "Customizable Alive Logo! Use => https://i.ibb.co/hdb4VFH/IMG-20210516-WA0008.jpg, to change back.",
+            "description": "Customizable Alive Logo! Use => https://i.ibb.co/wCWRLHS/Copy.png, to change back.",
             "required": true,
-            "value": "https://i.ibb.co/hdb4VFH/IMG-20210516-WA0008.jpg"
+            "value": "https://i.ibb.co/wCWRLHS/Copy.png"
         },
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
